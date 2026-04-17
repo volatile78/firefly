@@ -23,31 +23,40 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
-		title: "夏夜流萤",
+		title: "Xzy 的未知屋",
 		imgurl:
-			"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
-		desc: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
-		siteurl: "https://blog.cuteleaf.cn",
+			"https://cdn.luogu.com.cn/upload/usericon/1062508.png",
+		desc: "Xzy の Profile",
+		siteurl: "https://xzy404.me/",
 		tags: ["Blog"],
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
 	},
 	{
-		title: "Firefly Docs",
-		imgurl: "https://docs-firefly.cuteleaf.cn/logo.png",
-		desc: "Firefly主题模板文档",
-		siteurl: "https://docs-firefly.cuteleaf.cn",
-		tags: ["Docs"],
+		title: "zhangyimin12345 的博客",
+		imgurl: "https://cdn.luogu.com.cn/upload/usericon/1393230.png",
+		desc: "zhangyimin12345 的博客",
+		siteurl: "https://zym2013.github.io/",
+		tags: ["Blog"],
 		weight: 9,
 		enabled: true,
 	},
 	{
-		title: "Astro",
-		imgurl: "https://avatars.githubusercontent.com/u/44914786?v=4&s=640",
-		desc: "The web framework for content-driven websites. ⭐️ Star to support our work!",
-		siteurl: "https://github.com/withastro/astro",
-		tags: ["Framework"],
+		title: "tsh_qwq",
+		imgurl: "https://cdn.luogu.com.cn/upload/usericon/1485346.png",
+		desc: "awa",
+		siteurl: "https://tsh1203.github.io/web/",
+		tags: ["Blog"],
 		weight: 8,
+		enabled: true,
+	},
+	{
+		title: "hsl-beat 的博客",
+		imgurl: "https://cdn.luogu.com.cn/upload/usericon/816987.png",
+		desc: "hsl-beat 的博客",
+		siteurl: "https://hsl-beat.github.io/",
+		tags: ["Blog"],
+		weight: 7,
 		enabled: true,
 	},
 ];
