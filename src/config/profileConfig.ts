@@ -40,6 +40,18 @@ export const profileConfig: ProfileConfig = {
 			showName: false,
 		},
 		{
+			name: "Discord",
+			icon: "fa7-brands:discord",
+			url: "https://discord.com/users/1338413432818503731",
+			showName: false,
+		},
+		{
+			name: "X",
+			icon: "fa7-brands:x-twitter",
+			url: "https://x.com/volatilels",
+			showName: false,
+		},
+		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
 			url: "mailto:volatilels@outlook.com",
