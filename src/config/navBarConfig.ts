@@ -72,6 +72,13 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		],
 	});
 
+	links.push({
+		name: "开往",
+		url: "https://www.travellings.cn/go.html",
+		icon: "material-symbols:train",
+		external: true
+	});
+
 	// 仅返回链接，其它导航搜索相关配置在模块顶层常量中独立导出
 	return { links } as NavBarConfig;
 };
