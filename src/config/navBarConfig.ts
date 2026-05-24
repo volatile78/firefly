@@ -64,10 +64,9 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 		// 子菜单
 		children: [{
-				name: "恐怖随机空岛QQ交流群",
-				url: "https://qm.qq.com/q/wwS8Ccxd6w",
-				external: true,
-				icon: "fa7-brands:qq",
+				name: "Better Luogu!",
+				url: "https://www.luogu.me/article/w31r5kzz",
+				external: true
 			},
 		],
 	});

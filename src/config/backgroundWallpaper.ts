@@ -66,13 +66,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"不玩原神",
-				"也不玩崩铁，因为懒得改banner图",
+				"不玩崩铁，因为懒得改banner图",
 				"工作日没空",
-				"你刷新多少次了！？",
-				"差不多得了",
-				"真没了",
-				"想删了",
+				"你刷新多少次了！？"
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
