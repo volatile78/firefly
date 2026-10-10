@@ -64,8 +64,8 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 		// 子菜单
 		children: [{
-				name: "Better Luogu!",
-				url: "https://www.luogu.me/article/w31r5kzz",
+				name: "Luogu",
+				url: "https://www.luogu.com.cn/user/772464",
 				external: true
 			},
 		],
