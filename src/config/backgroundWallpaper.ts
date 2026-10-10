@@ -95,13 +95,13 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			text: {
 				// 桌面端要显示的来源文本
-				desktop: "Pixiv - mx",
+				desktop: "",
 				// 移动端要显示的来源文本
 				mobile: "Pixiv - 以来",
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接
-				desktop: "https://www.pixiv.net/users/59736757",
+				desktop: "",
 				// 移动端原始艺术品或艺术家页面的 URL 链接
 				mobile: "https://www.pixiv.net/users/33204282",
 			},
